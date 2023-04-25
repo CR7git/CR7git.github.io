@@ -3,7 +3,7 @@
 
 **Name**: Anubhab Chakraborty
 
-![Profile pic](/profile.htm)]
+![Profile pic](/17930.jpg)
 
 **Description** : I am a sophomoe at IIT Goa pursuing *Computer Science and Engineering*. I like to build stuffs using ***software tools***
 
